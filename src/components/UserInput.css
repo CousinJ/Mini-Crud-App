@@ -1,0 +1,29 @@
+.input-container {
+    display: flex;
+    align-items: center;
+    width:  20vw;
+    height: 20vh;
+    background-color: aliceblue;
+
+    border-style: groove;
+}
+
+.input-form {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.input-text {
+    width: 200px;
+    height: 2rem;
+    
+}
+
+.input-button {
+    width: 50px;
+    height: 2rem;
+    color: black;
+}
